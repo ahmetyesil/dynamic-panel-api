@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\bin\Debug\Database.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\bin\Debug\Database.pdb
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\bin\Debug\Constants.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\bin\Debug\CouchNet.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\bin\Debug\Constants.pdb
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\bin\Debug\CouchNet.pdb
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\obj\Debug\Database.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Database\obj\Debug\Database.pdb

@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\obj\Debug\Managers.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Managers.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Managers.pdb
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Constants.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\CouchNet.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Database.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\RabbitMQ.Client.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Constants.pdb
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\CouchNet.pdb
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Database.pdb
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\bin\Debug\RabbitMQ.Client.xml
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\obj\Debug\Managers.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Managers\obj\Debug\Managers.pdb

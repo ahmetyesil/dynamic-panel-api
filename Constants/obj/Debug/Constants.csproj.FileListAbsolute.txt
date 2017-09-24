@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Constants\bin\Debug\Constants.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Constants\bin\Debug\Constants.pdb
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Constants\obj\Debug\Constants.dll
+C:\Users\LENOVO\Documents\GitHub\dynamic-panel-api\DynamicPanel\Constants\obj\Debug\Constants.pdb
